@@ -1,0 +1,8 @@
+Step 1: re-code column names (Mike)
+Step 2: figure out # of dashes in each column (Mike)
+Step 3: replace dashes w/ column median (Adam)
+Step 4: Standardize columns first (Mike)
+Step 5: Create Histograms / Describe functions for a few interesting columns (Adam)
+Step 6: Correlation Analysis (Ben)
+Step 7: PCA reduction to improve computation time (Mike)
+Step 8: encode binary variables? Is this neccessary? (Mike)
