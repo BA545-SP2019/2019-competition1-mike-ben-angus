@@ -1,0 +1,683 @@
+Ticker,Sector,Sector Bin
+AMRC,Basic Industries,Other
+CE,Basic Industries,Other
+CF,Basic Industries,Other
+CMP,Basic Industries,Other
+GEVO,Basic Industries,Other
+HCCI,Basic Industries,Other
+HUN,Basic Industries,Other
+IPI,Basic Industries,Other
+KRA,Basic Industries,Other
+REGI,Basic Industries,Other
+SLCA,Basic Industries,Other
+SXC,Basic Industries,Other
+TIS,Basic Industries,Other
+TRX,Basic Industries,Other
+WLK,Basic Industries,Other
+AREX,Basic Materials,Other
+BIOF,Basic Materials,Other
+BRNC,Basic Materials,Other
+DEEP,Basic Materials,Other
+DSUP,Basic Materials,Other
+GMET,Basic Materials,Other
+HERO,Basic Materials,Other
+IPHS,Basic Materials,Other
+PINN,Basic Materials,Other
+PLTE,Basic Materials,Other
+REXX,Basic Materials,Other
+SWSI,Basic Materials,Other
+UAPH,Basic Materials,Other
+USBE,Basic Materials,Other
+XTXI,Basic Materials,Other
+ZINC,Basic Materials,Other
+GGL,Basic Materials,Other
+JOR,Basic Materials,Other
+NSE,Basic Materials,Other
+CFX,Capital Goods,Other
+CSTE,Capital Goods,Other
+MRC,Capital Goods,Other
+OLED,Capital Goods,Other
+PLOW,Capital Goods,Other
+PRLB,Capital Goods,Other
+ST,Capital Goods,Other
+TDG,Capital Goods,Other
+TNAV,Capital Goods,Other
+TOWR,Capital Goods,Other
+TRS,Capital Goods,Other
+TSLA,Capital Goods,Other
+WAIR,Capital Goods,Other
+P,Communication Services,Other
+RKUS,Communication Services,Other
+FRP,Communication Services,Other
+DWA,Communication Services,Other
+TUMI,Consumer Discretionary,Consumer
+BODY,Consumer Discretionary,Consumer
+TRW,Consumer Discretionary,Consumer
+BWY,Consumer Cyclical,Consumer
+MOTR,Consumer Cyclical,Consumer
+EEEE,Consumer Discretionary,Consumer
+GGXY,Consumer Discretionary,Consumer
+KORS,Consumer discretionary,Consumer
+NAUH,Consumer discretionary,Consumer
+BDE,Consumer discretionary,Consumer
+GNRC,Consumer Durables,Consumer
+KAR,Consumer Durables,Consumer
+MUSA,Consumer Durables,Consumer
+VCRA,Consumer Durables,Consumer
+BARE,Consumer Goods,Consumer
+CATM,Consumer Goods,Consumer
+CROX,Consumer Goods,Consumer
+CSCD,Consumer Goods,Consumer
+CVGI,Consumer Goods,Consumer
+DEIX,Consumer Goods,Consumer
+DMND,Consumer Goods,Consumer
+DTSI,Consumer Goods,Consumer
+FACE,Consumer Goods,Consumer
+FNET,Consumer Goods,Consumer
+FUQI,Consumer Goods,Consumer
+HLYS,Consumer Goods,Consumer
+LULU,Consumer Goods,Consumer
+MBLX,Consumer Goods,Consumer
+TRMM,Consumer Goods,Consumer
+VLCM,Consumer Goods,Consumer
+RCH,Consumer Goods,Consumer
+BV,Consumer Non-Durables,Consumer
+CHEF,Consumer Non-Durables,Consumer
+CRI,Consumer Non-Durables,Consumer
+DPZ,Consumer Non-Durables,Consumer
+PRMW,Consumer Non-Durables,Consumer
+ROX,Consumer Non-Durables,Consumer
+VRA,Consumer Non-Durables,Consumer
+VSI,Consumer Non-Durables,Consumer
+ANGI,Consumer Services,Consumer
+ARCO,Consumer Services,Consumer
+BAH,Consumer Services,Consumer
+BBW,Consumer Services,Consumer
+BLMN,Consumer Services,Consumer
+BPI,Consumer Services,Consumer
+CALX,Consumer Services,Consumer
+CCO,Consumer Services,Consumer
+CZR,Consumer Services,Consumer
+DG,Consumer Services,Consumer
+DNKN,Consumer Services,Consumer
+DSW,Consumer Services,Consumer
+EXPR,Consumer Services,Consumer
+FIVE,Consumer Services,Consumer
+FRAN,Consumer Services,Consumer
+FTD,Consumer Services,Consumer
+G,Consumer Services,Consumer
+GLOG,Consumer Services,Consumer
+HTZ,Consumer Services,Consumer
+LVS,Consumer Services,Consumer
+MG,Consumer Services,Consumer
+MRT,Consumer Services,Consumer
+NGVC,Consumer Services,Consumer
+ONE,Consumer Services,Consumer
+PFMT,Consumer Services,Consumer
+RNET,Consumer Services,Consumer
+RRR,Consumer Services,Consumer
+SHO,Consumer Services,Consumer
+TNK,Consumer Services,Consumer
+WIFI,Consumer Services,Consumer
+RNDY,Consumer Discretionary,Consumer
+TFM,Consumer Discretionary,Consumer
+AWAY,Consumer Discretionary,Consumer
+OWW,Consumer Discretionary,Consumer
+VITC,Consumer Discretionary,Consumer
+MJN,Consumer Discretionary,Consumer
+BNNY,Consumer Discretionary,Consumer
+DOLE,Consumer Discretionary,Consumer
+BBRG,Retail/Wholesale,Consumer
+CAB,Retail/Wholesale,Consumer
+ACLI,Services,Consumer
+AHII,Services,Consumer
+ALGT,Services,Consumer
+APEI,Services,Consumer
+ARBX,Services,Consumer
+ARII,Services,Consumer
+ATHN,Services,Consumer
+BAGL,Services,Consumer
+BDAY,Services,Consumer
+BECN,Services,Consumer
+BFAM,Services,Consumer
+BKRS,Services,Consumer
+BWLD,Services,Consumer
+CBOU,Services,Consumer
+CLAY,Services,Consumer
+CLUB,Services,Consumer
+CONN,Services,Consumer
+CTCT,Services,Consumer
+CTRN,Services,Consumer
+DWRI,Services,Consumer
+ECHO,Services,Consumer
+EDMC,Services,Consumer
+ESEA,Services,Consumer
+EXLS,Services,Consumer
+GASS,Services,Consumer
+GMTN,Services,Consumer
+GOLF,Services,Consumer
+HURN,Services,Consumer
+ICFI,Services,Consumer
+INET,Services,Consumer
+INWK,Services,Consumer
+KONA,Services,Consumer
+LGBT,Services,Consumer
+LIMC,Services,Consumer
+LINC,Services,Consumer
+LLNW,Services,Consumer
+LUNA,Services,Consumer
+MHGC,Services,Consumer
+NCMI,Services,Consumer
+NILE,Services,Consumer
+NXST,Services,Consumer
+OCNF,Services,Consumer
+PFWD,Services,Consumer
+PRGN,Services,Consumer
+PRTS,Services,Consumer
+PSPT,Services,Consumer
+PTEK,Services,Consumer
+QLTY,Services,Consumer
+RAIL,Services,Consumer
+REDE,Services,Consumer
+SCOR,Services,Consumer
+SFLY,Services,Consumer
+SNMX,Services,Consumer
+SRVY,Services,Consumer
+SUSS,Services,Consumer
+SWFT,Services,Consumer
+TAST,Services,Consumer
+TBSI,Services,Consumer
+TITN,Services,Consumer
+TTGT,Services,Consumer
+TXRH,Services,Consumer
+UACL,Services,Consumer
+VPRT,Services,Consumer
+WLDN,Services,Consumer
+WOLF,Services,Consumer
+WSTC,Services,Consumer
+XPRT,Services,Consumer
+ZUMZ,Services,Consumer
+CTP,Services,Consumer
+LOCK,Consumer,Consumer
+KIOR,Energy,Other
+CERE,Energy,Other
+BAS,Energy,Other
+CLD,Energy,Other
+CVI,Energy,Other
+CXO,Energy,Other
+DK,Energy,Other
+FANG,Energy,Other
+LPI,Energy,Other
+MPO,Energy,Other
+MTDR,Energy,Other
+OAS,Energy,Other
+PUMP,Energy,Other
+THR,Energy,Other
+WLL,Energy,Other
+WTI,Energy,Other
+NZ,Energy,Other
+BBG,Energy,Other
+DRC,Energy,Other
+WNR,Energy,Other
+DM,Oils/energy,Other
+SN,Oils/energy,Other
+STRI,Oils/energy,Other
+SXE,Oils/energy,Other
+ANFI,Financial,Other
+CRMH,Financial,Other
+PA,Financial,Other
+INPC,Financial Services,Other
+CEMP,Health Care,Healthcare
+DRTX,Health Care,Healthcare
+ANAC,Health Care,Healthcare
+HPTX,Health Care,Healthcare
+TSRX,Health Care,Healthcare
+ACRX,Health Care,Healthcare
+ALIM,Health Care,Healthcare
+AVEO,Health Care,Healthcare
+BEAT,Health Care,Healthcare
+CPIX,Health Care,Healthcare
+EBS,Health Care,Healthcare
+ELMD,Health Care,Healthcare
+ENTA,Health Care,Healthcare
+GMED,Health Care,Healthcare
+GNMK,Health Care,Healthcare
+HCA,Health Care,Healthcare
+ICPT,Health Care,Healthcare
+IRWD,Health Care,Healthcare
+MACK,Health Care,Healthcare
+MOH,Health Care,Healthcare
+NBY,Health Care,Healthcare
+OMER,Health Care,Healthcare
+PBH,Health Care,Healthcare
+PCRX,Health Care,Healthcare
+RGLS,Health Care,Healthcare
+SEM,Health Care,Healthcare
+TTPH,Health Care,Healthcare
+VLRX,Health Care,Healthcare
+VSTM,Health Care,Healthcare
+WCG,Health Care,Healthcare
+ZGNX,Health Care,Healthcare
+MAKO,Health Care,Healthcare
+SMA,Health Care,Healthcare
+ZLTQ,Health Care,Healthcare
+IPCM,Health Care,Healthcare
+TMH,Health Care,Healthcare
+GWAY,Health Care,Healthcare
+ABPI,Healthcare,Healthcare
+ACAD,Healthcare,Healthcare
+ACHN,Healthcare,Healthcare
+ACOR,Healthcare,Healthcare
+ADLS,Healthcare,Healthcare
+ADZA,Healthcare,Healthcare
+AFFY,Healthcare,Healthcare
+ALLI,Healthcare,Healthcare
+ALNY,Healthcare,Healthcare
+ALTU,Healthcare,Healthcare
+ALXA,Healthcare,Healthcare
+ANGO,Healthcare,Healthcare
+ARAY,Healthcare,Healthcare
+ARTE,Healthcare,Healthcare
+ATEC,Healthcare,Healthcare
+ATRC,Healthcare,Healthcare
+AUXL,Healthcare,Healthcare
+AVRX,Healthcare,Healthcare
+BFRM,Healthcare,Healthcare
+BIOD,Healthcare,Healthcare
+BMTI,Healthcare,Healthcare
+BTRX,Healthcare,Healthcare
+CADX,Healthcare,Healthcare
+COLY,Healthcare,Healthcare
+CORT,Healthcare,Healthcare
+CRDC,Healthcare,Healthcare
+CRYO,Healthcare,Healthcare
+CYNO,Healthcare,Healthcare
+CYTK,Healthcare,Healthcare
+DMED,Healthcare,Healthcare
+DVAX,Healthcare,Healthcare
+DXCM,Healthcare,Healthcare
+ENSG,Healthcare,Healthcare
+ETRM,Healthcare,Healthcare
+EURX,Healthcare,Healthcare
+EVVV,Healthcare,Healthcare
+FOLD,Healthcare,Healthcare
+GHDX,Healthcare,Healthcare
+GTOP,Healthcare,Healthcare
+GTXI,Healthcare,Healthcare
+GXDX,Healthcare,Healthcare
+HNSN,Healthcare,Healthcare
+ILSE,Healthcare,Healthcare
+INHX,Healthcare,Healthcare
+IOMI,Healthcare,Healthcare
+LHCG,Healthcare,Healthcare
+LMAT,Healthcare,Healthcare
+MAPP,Healthcare,Healthcare
+MASI,Healthcare,Healthcare
+MBRX,Healthcare,Healthcare
+MELA,Healthcare,Healthcare
+MEND,Healthcare,Healthcare
+MIPI,Healthcare,Healthcare
+MNKD,Healthcare,Healthcare
+MNTA,Healthcare,Healthcare
+MYOG,Healthcare,Healthcare
+NGSX,Healthcare,Healthcare
+NHWK,Healthcare,Healthcare
+NSPH,Healthcare,Healthcare
+NSTR,Healthcare,Healthcare
+NURO,Healthcare,Healthcare
+NXTM,Healthcare,Healthcare
+OCLS,Healthcare,Healthcare
+OMPI,Healthcare,Healthcare
+OMRI,Healthcare,Healthcare
+OPTR,Healthcare,Healthcare
+OREX,Healthcare,Healthcare
+OSIR,Healthcare,Healthcare
+PHRM,Healthcare,Healthcare
+PMII,Healthcare,Healthcare
+PODD,Healthcare,Healthcare
+PRSC,Healthcare,Healthcare
+RDYN,Healthcare,Healthcare
+REST,Healthcare,Healthcare
+ROSG,Healthcare,Healthcare
+SCMP,Healthcare,Healthcare
+SENO,Healthcare,Healthcare
+SGXP,Healthcare,Healthcare
+SHMR,Healthcare,Healthcare
+SIRT,Healthcare,Healthcare
+SNTA,Healthcare,Healthcare
+SOMX,Healthcare,Healthcare
+STXS,Healthcare,Healthcare
+TARG,Healthcare,Healthcare
+THLD,Healthcare,Healthcare
+THRM,Healthcare,Healthcare
+THRX,Healthcare,Healthcare
+TRBN,Healthcare,Healthcare
+TRCA,Healthcare,Healthcare
+TRGT,Healthcare,Healthcare
+TSON,Healthcare,Healthcare
+VIAC,Healthcare,Healthcare
+VNDA,Healthcare,Healthcare
+VNUS,Healthcare,Healthcare
+VOLC,Healthcare,Healthcare
+VRAD,Healthcare,Healthcare
+WCRX,Healthcare,Healthcare
+XTNT,Healthcare,Healthcare
+EXAM,Health Care,Healthcare
+ECYT,Medical,Healthcare
+TSRO,Medical,Healthcare
+BHRT,Medical,Healthcare
+HEM,Medical,Healthcare
+RLOC,Industrial,Other
+PAY,Industrials,Other
+VNTV,Industrial,Other
+ACW,Industrial,Other
+HPY,Industrial,Other
+NSR,Industrial,Other
+AIMC,Industrial Goods,Other
+AVAV,Industrial Goods,Other
+HEES,Industrial Goods,Other
+PGTI,Industrial Goods,Other
+ROLL,Industrial Goods,Other
+STRL,Industrial Goods,Other
+WCAA,Industrial Goods,Other
+BLT,Industrial,Other
+XRM,Industrial Products,Other
+NOR,Industrial Products,Other
+ROC,Materials,Other
+DHX,Miscellaneous,Other
+DLB,Miscellaneous,Other
+ENV,Miscellaneous,Other
+FLT,Miscellaneous,Other
+HPJ,Miscellaneous,Other
+MA,Miscellaneous,Other
+NLSN,Miscellaneous,Other
+PAR,Miscellaneous,Other
+QNST,Miscellaneous,Other
+SREV,Miscellaneous,Other
+V,Miscellaneous,Other
+WAGE,Miscellaneous,Other
+Z,Miscellaneous,Other
+ACOM,N/A,N/A
+ADKU,N/A,N/A
+AH,N/A,N/A
+ALJ,N/A,N/A
+AONE,N/A,N/A
+ARCL,N/A,N/A
+ARP,N/A,N/A
+ARST,N/A,N/A
+ASPV,N/A,N/A
+AVNC,N/A,N/A
+AVR,N/A,N/A
+BALT,N/A,N/A
+BKC,N/A,N/A
+BUN,N/A,N/A
+CABG,N/A,N/A
+CELM,N/A,N/A
+CENF,N/A,N/A
+CGTK,N/A,N/A
+CLU,N/A,N/A
+CNVO,N/A,N/A
+CNVX,N/A,N/A
+CONR,N/A,N/A
+CRU,N/A,N/A
+DCIN,N/A,N/A
+DDMG,N/A,N/A
+DMD,N/A,N/A
+DVOX,N/A,N/A
+DVR,N/A,N/A
+DYP,N/A,N/A
+EDG,N/A,N/A
+EM,N/A,N/A
+EPOC,N/A,N/A
+EYET,N/A,N/A
+FCL,N/A,N/A
+FFN,N/A,N/A
+FOXH,N/A,N/A
+FSTC,N/A,N/A
+GGS,N/A,N/A
+GKIS,N/A,N/A
+GMAN,N/A,N/A
+GNOM,N/A,N/A
+GSE,N/A,N/A
+GTEC,N/A,N/A
+HGG,N/A,N/A
+HOO,N/A,N/A
+HRZ,N/A,N/A
+HS,N/A,N/A
+IBI,N/A,N/A
+IFO,N/A,N/A
+INCX,N/A,N/A
+IPMT,N/A,N/A
+IVII,N/A,N/A
+IWA,N/A,N/A
+KBAY,N/A,N/A
+KCI,N/A,N/A
+KFI,N/A,N/A
+KIPS,N/A,N/A
+LPR,N/A,N/A
+LZEN,N/A,N/A
+MCP,N/A,N/A
+MDMD,N/A,N/A
+MEDH,N/A,N/A
+MOTV,N/A,N/A
+N,N/A,N/A
+NIV,N/A,N/A
+NLC,N/A,N/A
+NPTT,N/A,N/A
+ODMO,N/A,N/A
+OVNT,N/A,N/A
+PCS,N/A,N/A
+PEC,N/A,N/A
+PRAI,N/A,N/A
+PRVD,N/A,N/A
+QXM,N/A,N/A
+RHEO,N/A,N/A
+RUE,N/A,N/A
+SAI,N/A,N/A
+SMBI,N/A,N/A
+SOLR,N/A,N/A
+SVR,N/A,N/A
+SZYM,N/A,N/A
+TEA,N/A,N/A
+TRLA,N/A,N/A
+TTPY,N/A,N/A
+TZYM,N/A,N/A
+UPG,N/A,N/A
+VCC,N/A,N/A
+VCG,N/A,N/A
+VM,N/A,N/A
+VQ,N/A,N/A
+VSE,N/A,N/A
+VTUS,N/A,N/A
+WLSC,N/A,N/A
+WMG,N/A,N/A
+WSSI,N/A,N/A
+XCYT,N/A,N/A
+XGEN,N/A,N/A
+ZBB,N/A,N/A
+ZIP,N/A,N/A
+ZZ,N/A,N/A
+CDL,n/a,N/A
+CIL,n/a,N/A
+DEX,n/a,N/A
+RA,n/a,N/A
+BSFT,Technology,Technology
+EXA,Technology,Technology
+QLIK,Technology,Technology
+SSNI,Technology,Technology
+FIO,Technology,Technology
+PPO,Information Technology,Technology
+SCTY,Information Technology,Technology
+RLD,Information Technology,Technology
+ACTV,Information Technology,Technology
+DWRE,Information Technology,Technology
+IL,Information Technology,Technology
+LNKD,Information Technology,Technology
+MKTG,Information Technology,Technology
+MM,Information Technology,Technology
+SQI,Information Technology,Technology
+FSL,Technology,Technology
+PSMI,Technology,Technology
+FLTX,Technology,Technology
+AATI,Technology,Technology
+AGAM,Technology,Technology
+AIRV,Technology,Technology
+AMBA,Technology,Technology
+AMIS,Technology,Technology
+AOSL,Technology,Technology
+APKT,Technology,Technology
+ARUN,Technology,Technology
+AVGO,Technology,Technology
+AYR,Technology,Technology
+BBBB,Technology,Technology
+BBND,Technology,Technology
+BCOV,Technology,Technology
+BLOG,Technology,Technology
+BLSW,Technology,Technology
+BOX,Technology,Technology
+CALD,Technology,Technology
+CALL,Technology,Technology
+CARB,Technology,Technology
+CBEY,Technology,Technology
+CLWR,Technology,Technology
+CNSL,Technology,Technology
+COGT,Technology,Technology
+COMV,Technology,Technology
+CPII,Technology,Technology
+CREL,Technology,Technology
+CSIQ,Technology,Technology
+DBTK,Technology,Technology
+DDUP,Technology,Technology
+DIVX,Technology,Technology
+DMAN,Technology,Technology
+EGLT,Technology,Technology
+ELOQ,Technology,Technology
+EMAG,Technology,Technology
+ENPH,Technology,Technology
+ENTR,Technology,Technology
+EPAM,Technology,Technology
+ERII,Technology,Technology
+FB,Technology,Technology
+FIRE,Technology,Technology
+FSLR,Technology,Technology
+FTNT,Technology,Technology
+GLUU,Technology,Technology
+GOOG,Technology,Technology
+GRPN,Technology,Technology
+GSAT,Technology,Technology
+GUID,Technology,Technology
+HIRE,Technology,Technology
+HITT,Technology,Technology
+ICXT,Technology,Technology
+IKAN,Technology,Technology
+IMI,Technology,Technology
+IMMC,Technology,Technology
+INVN,Technology,Technology
+IPAS,Technology,Technology
+IPDN,Technology,Technology
+IPGP,Technology,Technology
+IPHI,Technology,Technology
+ISLN,Technology,Technology
+ITLN,Technology,Technology
+KEYW,Technology,Technology
+KNOL,Technology,Technology
+KNTA,Technology,Technology
+KNXA,Technology,Technology
+LDIS,Technology,Technology
+LIMS,Technology,Technology
+LOGM,Technology,Technology
+LQDT,Technology,Technology
+MANU,Technology,Technology
+MATH,Technology,Technology
+MDAS,Technology,Technology
+MDSO,Technology,Technology
+MEDE,Technology,Technology
+MEMS,Technology,Technology
+MFLX,Technology,Technology
+MLNX,Technology,Technology
+MPWR,Technology,Technology
+MRIN,Technology,Technology
+MTSI,Technology,Technology
+MXL,Technology,Technology
+NCIT,Technology,Technology
+NETL,Technology,Technology
+NEXT,Technology,Technology
+NOW,Technology,Technology
+NPTN,Technology,Technology
+NSTC,Technology,Technology
+NTGR,Technology,Technology
+NVT,Technology,Technology
+NXPI,Technology,Technology
+OESX,Technology,Technology
+OPTM,Technology,Technology
+OPXT,Technology,Technology
+ORBC,Technology,Technology
+PANW,Technology,Technology
+PROJ,Technology,Technology
+PRSS,Technology,Technology
+QLYS,Technology,Technology
+RACK,Technology,Technology
+RBCN,Technology,Technology
+RNIN,Technology,Technology
+RNOW,Technology,Technology
+RP,Technology,Technology
+RRST,Technology,Technology
+RST,Technology,Technology
+RVBD,Technology,Technology
+SCOP,Technology,Technology
+SDXC,Technology,Technology
+SFSF,Technology,Technology
+SGOC,Technology,Technology
+SGTL,Technology,Technology
+SHOR,Technology,Technology
+SIRF,Technology,Technology
+SLRY,Technology,Technology
+SMCI,Technology,Technology
+SNCR,Technology,Technology
+SPLK,Technology,Technology
+SPWR,Technology,Technology
+SSNC,Technology,Technology
+SSTK,Technology,Technology
+STAK,Technology,Technology
+STAR,Technology,Technology
+SWI,Technology,Technology
+TGH,Technology,Technology
+TLEO,Technology,Technology
+TLVT,Technology,Technology
+TNDM,Technology,Technology
+TRAK,Technology,Technology
+TRFC,Technology,Technology
+TRXI,Technology,Technology
+TSRA,Technology,Technology
+TWLL,Technology,Technology
+TYPE,Technology,Technology
+TZOO,Technology,Technology
+UBNT,Technology,Technology
+UNCA,Technology,Technology
+VOCS,Technology,Technology
+VRAZ,Technology,Technology
+VRGY,Technology,Technology
+VRSK,Technology,Technology
+VRTU,Technology,Technology
+WBMD,Technology,Technology
+WDAY,Technology,Technology
+ZSTN,Technology,Technology
+CDM,Technology,Technology
+CML,Technology,Technology
+GSL,Transportation,Other
+LTM,Transportation,Other
+RRTS,Transportation,Other
+SAVE,Transportation,Other
+SB,Transportation,Other
+STNG,Transportation,Other
+CAP,Transportation,Other
+TEU,Transportation,Other
+BWTR,Utilities,Other
+CPX,Utilities,Other
+OPTT,Utilities,Other
+ITC,Utilities,Other
+AWK,Public Utilities,Other
+DCP,Public Utilities,Other
+FN,Public Utilities,Other
+ORA,Public Utilities,Other
+VG,Public Utilities,Other
